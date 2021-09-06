@@ -1,14 +1,13 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://cdn.wallpapersafari.com/63/50/E9FpYw.png" height="175px"/></a>
 
-<h3 align="center">Hey there!
-I'm ReYMIi the random person worth of nothing
+<h3 align="center">ReYMii
 
 
 
 
 # Hey there!
 
-I'm UltraX the guy who make videos on youtuber teaching people how to create their own discord bot!
+I'm ReyMii a random person worth of nothing.
 
 💪 Currently creating discord bots and small projects.
 💝 Owner of Autumn Foundation.
