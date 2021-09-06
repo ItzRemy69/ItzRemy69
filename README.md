@@ -25,11 +25,11 @@ I'm UltraX the guy who make videos on youtuber teaching people how to create the
 
 ## My Activities
 
-<a style="text-decoration: none;" href="https://youtube.com/UltraX1">
-  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=KarimX32&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
+<a style="text-decoration: none;" href="https://github.com/ItzRemy69">
+  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=ItzRemy69&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
-<a href="https://youtube.com/UltraX1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimX32&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+<a href="https://github.com/ItzRemy69">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzRemy69&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
 
 
