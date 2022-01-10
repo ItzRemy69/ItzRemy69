@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://media.discordapp.net/attachments/881826594061156382/929008949569679370/3372790.png?width=1025&height=456" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8aa7e828-cef5-4a91-9367-644f1554aa22/ddp1fwo-af3c630b-b850-48ea-8ac5-50f5d708ffd0.png/v1/fill/w_800,h_300,strp/niya_banner_anime_shapes_by_auralanity_ddp1fwo-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzAwIiwicGF0aCI6IlwvZlwvOGFhN2U4MjgtY2VmNS00YTkxLTkzNjctNjQ0ZjE1NTRhYTIyXC9kZHAxZndvLWFmM2M2MzBiLWI4NTAtNDhlYS04YWM1LTUwZjVkNzA4ZmZkMC5wbmciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.175zlulMhNrjVdzYG6dTOBjWydNy3pLsgFQweiqmZX8" height="175px"/></a>
 
 <h3 align="center">ReYMii
 
