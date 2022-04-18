@@ -11,7 +11,7 @@ I'm ReyMii a random person worth of nothing.
 
 🍁 Currently working on small projects.
 💝 Owner of Autumn Foundation.
-✊ Not perfect, but i'll be one day.
+🌯 Not perfect, but i'll be one day.
 🏆 2022 Goals: Japan.
 🎯 Wasting my time to save other people's time.
   Creator of Arxiya discord bot \n
